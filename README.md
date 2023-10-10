@@ -14,7 +14,12 @@ https://github.com/1onePas/Vega-X-Fix/assets/105048898/18eb6c7c-7d17-46be-8e13-4
 
 
 
-For more help, join the discord. https://discord.com/invite/vegax
+# FOR MORE HELP JOIN THE DISCORD: https://discord.com/invite/vegax
+
+### Written by 1pas
+- 1. Method by 1pas
+- 2. Method by RG Ad Guard
+- 1. Method Tutorial Recorded by: 1pas
 
 
 # These were all the Fixes, currently.
